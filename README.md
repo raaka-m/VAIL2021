@@ -11,7 +11,7 @@ Day 2 (2/9/2021)
 2. The statement "Scikit-Learn has the power to visualize data without a Graphviz, Pandas, or other data analysis libraries" is FALSE. Scikit-Learn is built on top of these common data and math libraries.
 
 Day 3 (2/10/2021)
-1. Tensors are a mathematical representation of a physical entity that may be characterized by magnitude and multiple directions.
+1. Tensors are a mathematical representation of a physical entity that may be characterized by magnitude and multiple directions. They are a generalization of a matrix that can be represented using multi-dimensional arrays. We can manipulate them using different operations. They are ranked based on their dimensions.
 2. When you compile in TensorFlow, you define a loss function, an optimizer, and a metric.
 
 Day 4 (2/11/2021)
