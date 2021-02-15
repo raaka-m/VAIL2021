@@ -15,4 +15,10 @@ Day 3 (2/10/2021)
 2. When you compile in TensorFlow, you define a loss function, an optimizer, and a metric.
 
 Day 4 (2/11/2021)
+Dataset: https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
+Problem: Recently, numerous studies have shown that AI and ML models have higher accuracy at diagnosing patients than doctors. However, there need to be specific algorithms
+and models developed for each condition/disease/etc. and their respective diagnostic tools which is extremely time consuming.
+Solution: We should develop a solution that can help those in the healthcare industry with diagnoses by creating our own deep learning algorithm. Specifically, we want to develop a CNN that can correctly classify x-rays of patients with pneumonia. We chose a CNN because they are strong at image recognition and is ideal for processing 2D images.
 
+Citations: 
+https://towardsdatascience.com/ai-diagnoses-disease-better-than-your-doctor-study-finds-a5cc0ffbf32
