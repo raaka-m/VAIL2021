@@ -22,3 +22,7 @@ Solution: We should develop a solution that can help those in the healthcare ind
 
 Citations: 
 https://towardsdatascience.com/ai-diagnoses-disease-better-than-your-doctor-study-finds-a5cc0ffbf32
+
+Day 5 (2/12/2021)
+
+
