@@ -12,4 +12,7 @@ Day 2 (2/9/2021)
 
 Day 3 (2/10/2021)
 1. Tensors are a mathematical representation of a physical entity that may be characterized by magnitude and multiple directions.
-2. 
+2. When you compile in TensorFlow, you define a loss function, an optimizer, and a metric.
+
+Day 4 (2/11/2021)
+
