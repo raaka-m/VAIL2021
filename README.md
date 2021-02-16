@@ -29,8 +29,11 @@ Day 5 (2/12/2021)
 
 The code is in the repository.
 
-Day 8 (2/16/2021)
+Day 8 (2/15/2021)
 
 The code is in the repository.
 
+Day 9 (2/16/2021)
+1. I think AI and ML concepts were used to mimic the way I picked candidates. Then, the game used this algorithm to pick sample candidates after the process became automated.
+2. An example of a biased ML model is facial recognition technology. Many reports have demonstrated that the recognition software is more inaccurate for POC, women, children, and the elderly. My suggestion to improving this is using more data from more types of people to train the technology. Additionally, hiring a more diverse set of individuals who can help change the technology will reflect in the potential reduction of bias in the technology. I picked this technology because the implications of this technology being biased are severe. Police have been using this technology to identify individuals. If the technology is inaccurate, POC, women, children, and elderly are more at risk for being inaccurately identified and having their lives being completely uprooted.
 
