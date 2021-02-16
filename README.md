@@ -11,10 +11,12 @@ Day 2 (2/9/2021)
 2. The statement "Scikit-Learn has the power to visualize data without a Graphviz, Pandas, or other data analysis libraries" is FALSE. Scikit-Learn is built on top of these common data and math libraries.
 
 Day 3 (2/10/2021)
+
 1. Tensors are a mathematical representation of a physical entity that may be characterized by magnitude and multiple directions. They are a generalization of a matrix that can be represented using multi-dimensional arrays. We can manipulate them using different operations. They are ranked based on their dimensions.
 2. When you compile in TensorFlow, you define a loss function, an optimizer, and a metric.
 
 Day 4 (2/11/2021)
+
 Dataset: https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
 Problem: Recently, numerous studies have shown that AI and ML models have higher accuracy at diagnosing patients than doctors. However, there need to be specific algorithms
 and models developed for each condition/disease/etc. and their respective diagnostic tools which is extremely time consuming.
@@ -24,6 +26,11 @@ Citations:
 https://towardsdatascience.com/ai-diagnoses-disease-better-than-your-doctor-study-finds-a5cc0ffbf32
 
 Day 5 (2/12/2021)
+
+The code is in the repository.
+
+Day 8 (2/16/2021)
+
 The code is in the repository.
 
 
