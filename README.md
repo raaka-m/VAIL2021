@@ -42,27 +42,18 @@ Day 10 (2/17/2021)
 There are differences between fully connected neural networks and convolutional neural networks in the context for image recognition. 
 
 Fully Connected Neural Networks: Images are a large input for a neural network; this requires a huge number of connections and network parameters.
-
 Convolutional Neural Networks: utilize the smaller details of an image. Uses these details to analyze each feature individually, which is used to make decisions about the whole image. Additionally, the CNN has a fully connected layer between the convolution/pooling layers and the classification decision.
 
 CNN Layers:
 
 Convolutional: scans a few pixels, creates a feature map, predicts the classification of each feature
-
 Pooling layer: reduces information in each feature which retaining most important information 
-
 *Note: there are usually several rounds of the aforementioned steps*
-
 Fully connected input layer: uses output and puts them into a format (single vector) that can be used for the next stage.
-
 First fully connected layer: applies weights to features to predict correct classification
-
 Fully connected output layer: final probabilities for each classification
 
 Applications of Fully Connected Neural Networks and CNNS:
 
 CNN: Image recognition
-
 Fully Connected Neural Network: Deep learning
-
-
