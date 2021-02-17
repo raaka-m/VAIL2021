@@ -37,3 +37,21 @@ Day 9 (2/16/2021)
 1. I think AI and ML concepts were used to mimic the way I picked candidates. Then, the game used this algorithm to pick sample candidates after the process became automated.
 2. An example of a biased ML model is facial recognition technology. Many reports have demonstrated that the recognition software is more inaccurate for POC, women, children, and the elderly. My suggestion to improving this is using more data from more types of people to train the technology. Additionally, hiring a more diverse set of individuals who can help change the technology will reflect in the potential reduction of bias in the technology. I picked this technology because the implications of this technology being biased are severe. Police have been using this technology to identify individuals. If the technology is inaccurate, POC, women, children, and elderly are more at risk for being inaccurately identified and having their lives being completely uprooted.
 
+Day 10 (2/17/2021)
+There are differences between fully connected neural networks and convolutional neural networks in the context for image recognition. 
+Fully Connected Neural Networks: Images are a large input for a neural network; this requires a huge number of connections and network parameters.
+Convolutional Neural Networks: utilize the smaller details of an image. Uses these details to analyze each feature individually, which is used to make decisions about the whole image. Additionally, the CNN has a fully connected layer between the convolution/pooling layers and the classification decision.
+
+CNN Layers:
+Convolutional: scans a few pixels, creates a feature map, predicts the classification of each feature
+Pooling layer: reduces information in each feature which retaining most important information 
+*Note: there are usually several rounds of the aforementioned steps*
+Fully connected input layer: uses output and puts them into a format (single vector) that can be used for the next stage.
+First fully connected layer: applies weights to features to predict correct classification
+Fully connected output layer: final probabilities for each classification
+
+Applications of Fully Connected Neural Networks and CNNS:
+CNN: Image recognition
+Fully Connected Neural Network: Deep learning
+
+
