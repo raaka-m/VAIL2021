@@ -66,3 +66,16 @@ Applications of Fully Connected Neural Networks and CNNS:
 CNN: Image recognition
 
 Fully Connected Neural Network: Deep learning
+
+Day 16 (2/23/2021)
+
+ReLU work by outputing the input directly if it is positive, otherwise, it will output zero. This is an advantage because a model that uses it is easier to train and often achieves better performance. Specifically, other advantages include computational simplicity, representational sparsity, linear behavior, and ability to train deep neural networks.
+
+We can elaborate on these advantages:
+
+Computational simplicity - easier to implement
+Representational sparsity - outputs a true zero
+Linear behavior - looks and acts like a linear activation function
+Train deep networks - successfully train deep multi-layered networks
+
+ReLU can be used as an activation function for CNNs.
