@@ -79,3 +79,7 @@ Linear behavior - looks and acts like a linear activation function
 Train deep networks - successfully train deep multi-layered networks
 
 ReLU can be used as an activation function for CNNs.
+
+Day 18 (2/27/2021)
+
+By changing the loss to a regression based function (mean squared error) for the housing data, the accuracy improved a little. However, this could be due to overfitting.
